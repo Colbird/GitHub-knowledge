@@ -13,4 +13,4 @@ This second method, using forks, *does not [Unlike Merging] require someone to m
 **Rebase**: get new master and see how you branch works before *merging*
 **Clone** copy of repository. This clone has everything, the files, the master branch, the other branches, all the existing commits.
 
-Need to fix this tooo
+Need to fix this too.
